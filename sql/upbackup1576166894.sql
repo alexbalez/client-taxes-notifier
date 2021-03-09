@@ -1,0 +1,34 @@
+<br />
+<b>Warning</b>:  filesize(): stat failed for .\sql\backup1576166894.sql in <b>C:\Users\alexb\Dropbox\College Files\comp1230 - PHP\assignments\assignment2\db.php</b> on line <b>11</b><br />
+<br />
+<b>Warning</b>:  readfile(.\sql\backup1576166894.sql): failed to open stream: No such file or directory in <b>C:\Users\alexb\Dropbox\College Files\comp1230 - PHP\assignments\assignment2\db.php</b> on line <b>12</b><br />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <title>Client Management System</title>
+</head>
+<body>
+
+<h1>Database</h1>
+
+<h2>Backup database</h2>
+
+<a href="db.php?download=true">Download backup</a><br><br>
+
+<h2>Upload database</h2>
+<form action="db.php" method="post" enctype="multipart/form-data">
+	<input name="file" id="file" type="file" accept=".sql"><br>
+	<input name="upload" type="submit" value="Upload">
+</form>
+Array
+(
+    [download] => true
+)
+1

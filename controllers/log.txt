@@ -1,0 +1,114 @@
+User: 3, Action: added client asb, Time: December 11, 2019, 6:29:34 PM, IP: ::1
+User: admin, Action: added user , Time: December 12, 2019, 1:04:51 PM, IP: ::1
+User: admin, Action: added user , Time: December 12, 2019, 1:05:22 PM, IP: ::1
+User: admin, Action: added user , Time: December 12, 2019, 1:05:52 PM, IP: ::1
+User: admin, Action: added user , Time: December 12, 2019, 1:06:14 PM, IP: ::1
+User: admin, Action: added user alex, Time: December 12, 2019, 1:39:53 PM, IP: ::1
+User: admin, Action: added user aaa, Time: December 12, 2019, 1:44:54 PM, IP: ::1
+User: admin, Action: added user qqq, Time: December 12, 2019, 1:51:54 PM, IP: ::1
+User: admin, Action: added user , Time: December 12, 2019, 2:14:47 PM, IP: ::1
+User: admin, Action: added user , Time: December 12, 2019, 2:15:27 PM, IP: ::1
+User: admin, Action: added client FEV, Time: December 12, 2019, 2:29:40 PM, IP: ::1
+User: admin, Action: viewed clients, Time: December 12, 2019, 2:29:42 PM, IP: ::1
+User: admin, Action: updated client FEV, Time: December 12, 2019, 2:29:50 PM, IP: ::1
+User: admin, Action: updated events from client id 1, Time: December 12, 2019, 2:29:50 PM, IP: ::1
+User: admin, Action: viewed clients, Time: December 12, 2019, 2:29:54 PM, IP: ::1
+User: admin, Action: deleted client id 1, Time: December 12, 2019, 2:29:58 PM, IP: ::1
+User: admin, Action: added event 0001-01-01, Time: December 12, 2019, 2:30:27 PM, IP: ::1
+User: admin, Action: updated event id 1, Time: December 12, 2019, 2:30:34 PM, IP: ::1
+User: admin, Action: updated notifications from id 1, Time: December 12, 2019, 2:30:34 PM, IP: ::1
+User: admin, Action: deleted event id 1, Time: December 12, 2019, 2:30:41 PM, IP: ::1
+User: admin, Action: added notification wscd, Time: December 12, 2019, 2:31:16 PM, IP: ::1
+User: admin, Action: viewed notifys, Time: December 12, 2019, 2:31:18 PM, IP: ::1
+User: admin, Action: updated notification id1, Time: December 12, 2019, 2:31:21 PM, IP: ::1
+User: admin, Action: viewed notifys, Time: December 12, 2019, 2:31:23 PM, IP: ::1
+User: admin, Action: deleted notify id 1, Time: December 12, 2019, 2:31:26 PM, IP: ::1
+User: admin, Action: viewed notifys, Time: December 12, 2019, 2:31:29 PM, IP: ::1
+User: admin, Action: added user 111, Time: December 12, 2019, 2:32:13 PM, IP: ::1
+User: admin, Action: updated client , Time: December 12, 2019, 2:32:21 PM, IP: ::1
+User: admin, Action: updated events from client id 7, Time: December 12, 2019, 2:32:21 PM, IP: ::1
+User: admin, Action: deleted client id 10, Time: December 12, 2019, 2:32:36 PM, IP: ::1
+User: admin, Action: downloaded database, Time: December 12, 2019, 2:32:54 PM, IP: ::1
+User: admin, Action: uploaded database, Time: December 12, 2019, 2:33:10 PM, IP: ::1
+User: admin, Action: added client , Time: December 12, 2019, 2:36:48 PM, IP: ::1
+User: admin, Action: viewed clients, Time: December 12, 2019, 2:36:50 PM, IP: ::1
+User: admin, Action: session expired, Time: December 12, 2019, 3:10:39 PM, IP: ::1
+User: admin, Action: session expired, Time: December 12, 2019, 3:10:42 PM, IP: ::1
+User: admin, Action: session expired, Time: December 12, 2019, 3:11:50 PM, IP: ::1
+User: admin, Action: session expired, Time: December 12, 2019, 3:13:30 PM, IP: ::1
+User: admin, Action: session expired, Time: December 12, 2019, 3:16:33 PM, IP: ::1
+User: admin, Action: session expired, Time: December 12, 2019, 3:21:40 PM, IP: ::1
+User: , Action: session expired, Time: December 12, 2019, 3:22:52 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:26:19 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:26:20 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:26:23 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:27:55 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:29:18 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:42:09 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:42:14 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:43:59 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:45:15 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:45:17 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:50:01 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:50:04 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:50:09 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:50:18 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:51:01 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:54:26 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:56:00 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:56:02 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:56:11 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 3:56:12 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:00:24 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:00:43 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:03:25 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:03:41 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:03:52 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:04:45 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:05:32 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:07:34 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:08:10 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:08:45 PM, IP: ::1
+User: , Action: added user u, Time: December 12, 2019, 4:10:25 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:10:45 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:10:55 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:11:08 PM, IP: ::1
+User: , Action: added user u, Time: December 12, 2019, 4:14:35 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:14:43 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:14:50 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:38:49 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:38:52 PM, IP: ::1
+User: , Action: added user admin, Time: December 12, 2019, 4:39:59 PM, IP: ::1
+User: , Action: viewed users, Time: December 12, 2019, 4:40:02 PM, IP: ::1
+User: , Action: viewed users, Time: December 12, 2019, 4:40:11 PM, IP: ::1
+User: , Action: viewed clients, Time: December 12, 2019, 4:40:20 PM, IP: ::1
+User: , Action: added client abc, Time: December 12, 2019, 4:41:03 PM, IP: ::1
+User: , Action: viewed clients, Time: December 12, 2019, 4:41:05 PM, IP: ::1
+User: , Action: added event 0001-01-01, Time: December 12, 2019, 4:41:28 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:46:49 PM, IP: ::1
+User: ::1, Action: session expired, Time: December 12, 2019, 4:46:53 PM, IP: ::1
+User: admin, Action: logged in, Time: December 12, 2019, 4:46:53 PM, IP: ::1
+User: admin, Action: added client ccc, Time: December 12, 2019, 4:48:13 PM, IP: ::1
+User: admin, Action: viewed clients, Time: December 12, 2019, 4:48:15 PM, IP: ::1
+User: admin, Action: updated client abc, Time: December 12, 2019, 4:48:20 PM, IP: ::1
+User: admin, Action: updated events from client id 1, Time: December 12, 2019, 4:48:20 PM, IP: ::1
+User: admin, Action: viewed clients, Time: December 12, 2019, 4:48:22 PM, IP: ::1
+User: admin, Action: deleted client id 2, Time: December 12, 2019, 4:48:26 PM, IP: ::1
+User: admin, Action: added event 0001-01-01, Time: December 12, 2019, 4:48:46 PM, IP: ::1
+User: admin, Action: updated event id 2, Time: December 12, 2019, 4:48:52 PM, IP: ::1
+User: admin, Action: updated notifications from id 2, Time: December 12, 2019, 4:48:52 PM, IP: ::1
+User: admin, Action: deleted event id 1, Time: December 12, 2019, 4:48:58 PM, IP: ::1
+User: admin, Action: viewed notifys, Time: December 12, 2019, 4:49:16 PM, IP: ::1
+User: admin, Action: added notification sean, Time: December 12, 2019, 4:49:24 PM, IP: ::1
+User: admin, Action: viewed notifys, Time: December 12, 2019, 4:49:25 PM, IP: ::1
+User: admin, Action: added notification joe, Time: December 12, 2019, 4:49:36 PM, IP: ::1
+User: admin, Action: viewed notifys, Time: December 12, 2019, 4:49:38 PM, IP: ::1
+User: admin, Action: deleted notify id 2, Time: December 12, 2019, 4:49:43 PM, IP: ::1
+User: admin, Action: added notification theo, Time: December 12, 2019, 4:49:59 PM, IP: ::1
+User: admin, Action: viewed notifys, Time: December 12, 2019, 4:50:01 PM, IP: ::1
+User: admin, Action: updated notification id3, Time: December 12, 2019, 4:50:05 PM, IP: ::1
+User: admin, Action: viewed users, Time: December 12, 2019, 4:50:16 PM, IP: ::1
+User: admin, Action: viewed users, Time: December 12, 2019, 4:50:28 PM, IP: ::1
+User: admin, Action: viewed users, Time: December 12, 2019, 4:50:38 PM, IP: ::1
+User: admin, Action: downloaded database, Time: December 12, 2019, 4:50:48 PM, IP: ::1
+User: admin, Action: uploaded database, Time: December 12, 2019, 4:51:01 PM, IP: ::1

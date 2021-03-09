@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="205351c9-9a82-4576-beb4-c467311b96cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1UUvCjd9udYlwbnOZShXlHqkTLA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controllers" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexb\Dropbox\College Files\comp1230 - PHP\assignments\assignment2\controllers" />
+      <recent name="C:\Users\alexb\Dropbox\College Files\comp1230 - PHP\assignments\assignment2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexb\Dropbox\College Files\comp1230 - PHP\assignments\assignment2\model" />
+      <recent name="C:\Users\alexb\Dropbox\College Files\comp1230 - PHP\assignments\assignment2\v2\app" />
+      <recent name="C:\Users\alexb\Dropbox\College Files\comp1230 - PHP\assignments\assignment2\controllers" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205351c9-9a82-4576-beb4-c467311b96cc" name="Default Changelist" comment="" />
+      <created>1575423863162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575423863162</updated>
+      <workItem from="1575423866095" duration="2855000" />
+      <workItem from="1575486111258" duration="2255000" />
+      <workItem from="1575567079380" duration="32000" />
+      <workItem from="1575646670497" duration="834000" />
+      <workItem from="1575647697437" duration="149837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="134" key="#CLI_Interpreters" timestamp="1575424037462">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="332" y="134" key="#CLI_Interpreters/0.0.1500.960@0.0.1500.960" timestamp="1575424037462" />
+    <state x="343" y="138" key="#PHP" timestamp="1575736531615">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="138" key="#PHP/0.0.1500.960@0.0.1500.960" timestamp="1575736531615" />
+    <state x="343" y="138" key="#SQL_Dialects" timestamp="1575740602984">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="138" key="#SQL_Dialects/0.0.1500.960@0.0.1500.960" timestamp="1575740602984" />
+    <state x="431" y="207" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575741845771">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="431" y="207" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1500.960@0.0.1500.960" timestamp="1575741845771" />
+    <state x="532" y="222" key="FileChooserDialogImpl" timestamp="1575647944092">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="532" y="222" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1575647944092" />
+    <state x="585" y="403" key="NewPhpFileDialog" timestamp="1576107138227">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="585" y="403" key="NewPhpFileDialog/0.0.1500.960@0.0.1500.960" timestamp="1576107138227" />
+    <state x="253" y="122" key="SettingsEditor" timestamp="1575424053069">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="253" y="122" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1575424053069" />
+    <state x="451" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1575423872661">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="451" y="304" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1575423872661" />
+    <state x="443" y="85" width="613" height="789" key="find.popup" timestamp="1576187073044">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="443" y="85" width="613" height="789" key="find.popup/0.0.1500.960@0.0.1500.960" timestamp="1576187073044" />
+    <state x="395" y="209" width="700" height="530" key="recent.locations.popup" timestamp="1576186546079">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="395" y="209" width="700" height="530" key="recent.locations.popup/0.0.1500.960@0.0.1500.960" timestamp="1576186546079" />
+    <state x="413" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1576019815465">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="413" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1576019815465" />
+  </component>
+</project>
